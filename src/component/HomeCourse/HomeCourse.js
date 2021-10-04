@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react';
-import SingleCourse from '../Single-Course/SingleCourse';
+import SingleHomeCrouse from './SingleHomeCrouse';
 
-const Course = () => {
+const HomeCourse = () => {
     const [course,setCourse]=useState([]);
     useEffect(()=>{
-        fetch("./Coursefakedb.json")
+        fetch("./Homefakedb.json")
         .then(res=> res.json())
         .then(data =>setCourse(data));
     },[])
@@ -13,14 +13,14 @@ const Course = () => {
             <h2>Our Course</h2>
             <div className="row row-cols-1 row-cols-md-3 g-4 container ms-5 mb-5">
                 {
-                    course.map(course=><SingleCourse
+                    course.map(course=><SingleHomeCrouse
                     key={course.id}
                     course={course}
-                    ></SingleCourse>)
+                    ></SingleHomeCrouse>)
                 }
             </div>
         </div>
     );
 };
 
-export default Course;
+export default HomeCourse;

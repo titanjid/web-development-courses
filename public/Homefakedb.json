@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "price":1000,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-udemy-online.png.webp",
+        "title":"Udemy",
+        "details":"Udemy boasts a good number of web development courses, but which one should you choose if you’re starting out with no background in coding? The Complete Web Developer in 2019: Zero to Mastery aims to do exactly what it says on the tin."
+    },
+    {
+        "id":"2",
+        "price":1100,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-coursera-online.png.webp",
+        "title":"Coursera",
+        "details":"Coursera provides a wealth of web development courses that can provide a solid foundation to both front and back-end web development."
+    },
+    {
+        "id":"3",
+        "price":1200,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-udacity-online.png.webp",
+        "title":" Udacity",
+        "details":"Udacity’s Web Development course, taught by Steve Huffman, takes your through the most important concepts regarding internet browsers and HTML."
+    },
+    {
+        "id":"4",
+        "price":1300,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-edx-online.png.webp",
+        "title":"edX",
+        "details":"edX offers a range of interesting web development courses, varying from beginner level to more advanced."
+    }
+]

@@ -1,7 +1,6 @@
 import React from 'react';
-import './singleCourse.css'
 
-const SingleCourse = (props) => {
+const SingleHomeCrouse = (props) => {
     const {title,img,details,price}=props.course;
     return (
         <div className="col">
@@ -17,4 +16,4 @@ const SingleCourse = (props) => {
     );
 };
 
-export default SingleCourse;
+export default SingleHomeCrouse;

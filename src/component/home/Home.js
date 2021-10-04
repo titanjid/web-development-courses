@@ -2,6 +2,7 @@ import React from "react";
 import Sponsors from "../Sponsors/Sponsors";
 import Course from "../Course-Categories/Course";
 import img from "../../images/images.jpg";
+import HomeCourse from "../HomeCourse/HomeCourse";
 
 const Home = () => {
   return (
@@ -49,7 +50,7 @@ const Home = () => {
           the most sought after.
         </p>
       </div>
-      <Course></Course>
+      <HomeCourse></HomeCourse>
       <Sponsors></Sponsors>
     </div>
   );
