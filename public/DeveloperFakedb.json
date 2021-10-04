@@ -1,0 +1,80 @@
+[
+    {
+        "id":"1",
+        "img":"https://cdn.mos.cms.futurecdn.net/XRXmLXQ6BEmxqgfqNdNNbg-970-80.jpg.webp",
+        "name":" Sara Soueidan",
+        "details":"A Lebanon-based frontend UI developer and author, Sara has worked with clients across the globe including Netflix, The Royal Schiphol Group, Smashing Magazine and more. She runs workshops and helps companies and agencies build clean frontend foundations for websites and applications, with a strong focus on progressive enhancement, performance and accessibility."
+    },
+    {
+        "id":"2",
+        "img":"https://cdn.mos.cms.futurecdn.net/d56Tacirhb3wYTSB3DNhbg-970-80.jpg.webp",
+        "name":"Abby Covert",
+        "details":"Abby Covert is a senior staff information architect at Etsy and specialises in delivering collaborative information architecture processes, as well as teaching those that she works with along the way. Speaking and writing under the pseudonym Abby the IA, she focuses on sharing information architecture content with those working within the design and technology communities, and is co-founder of World IA Day. She's also the author of How to Make Sense of Any Mess, a book about information architecture for everybody."
+    },
+    {
+        "id":"3",
+        "img":"https://cdn.mos.cms.futurecdn.net/44ce85ff03b17dac90320c6359c5bcb9-970-80.jpg.webp",
+        "name":"Ethan Marcotte",
+        "details":"If there's one man in the web industry who probably doesn't need an introduction, it's Ethan Marcotte. One of the web's best-known designers, Marcotte is a regular and popular speaker on the conference circuit and, in his own words, the one who started that whole 'responsive web design' thing"
+    },
+    {
+        "id":"4",
+        "img":"https://cdn.mos.cms.futurecdn.net/fe2bb57a7c4c454e85519c7b29f341d4-970-80.jpg.webp",
+        "name":"Chris Coyier",
+        "details":"A world-known CSS expert and HTML guru, Chris Coyier writes one of the most popular CSS blogs on the web, CSS-Tricks. Throughout his career, Chris has published many tutorials, websites, and scripts to help designers improve their skills. A co-founder of CodePen, Chris can also be found at web design and development podcast ShopTalk."
+    },
+    {
+        "id":"5",
+        "img":"https://cdn.mos.cms.futurecdn.net/835132c4d347a217f71e15e130e32ae2-970-80.jpg.webp",
+        "name":"Karen McGrane",
+        "details":"UX expert Karen McGrane motto is simple - 'On a good day, I make the web more awesome. On a bad day, I make it suck less'. A content strategist and user experience designer, McGrane has over 15 years experience of making big, complicated websites. Currently managing partner of Bond Art + Science, she is also the author of Content Strategy for Mobile."
+    },
+    {
+        "id":"6",
+        "img":"https://cdn.mos.cms.futurecdn.net/10caba590b518de64b8c15d8e8e3fbd9-970-80.jpg.webp",
+        "name":"Dan Cederholm",
+        "details":"Dan Cederholm is the author of five web design books covering everything from standards-based code approaches to Sass. As well as writing, Cederholm is a practising web designer, and a popular speaker. Alongside Rich Thornett, Cederholm is a co-founder of the popular dribbble.com show-and-tell website that allows designers to upload micro-shots of their work in progress."
+    },
+    {
+        "id":"7",
+        "img":"https://cdn.mos.cms.futurecdn.net/d8fea4a8271828102f215e184be3a6bc-970-80.jpg.webp",
+        "name":" Sarah Parmenter",
+        "details":"User interface designer Sarah Parmenter specialises in design for the web, iPhone and iPad. Owner of design studio You Know Who and co-host of the Happy Monday podcast, Parmenter can often be found travelling the world to speak at the world's leading web design conferences. Her client list includes Blackberry, News International, STV and The National Breast Cancer Foundation of America."
+    },
+    {
+        "id":"8",
+        "img":"https://cdn.mos.cms.futurecdn.net/dd57aed30e74e5b36a5ea6c267910ae1-970-80.jpg.webp",
+        "name":"Dave Shea",
+        "details":"Dave Shea is most famous for his CSS Zen Garden project, which helped spearhead the move from table-based web design layout to CSS-based layouts. The website became very popular, both helping to push the boundaries of what designs could be achieved with CSS alone, and also encouraging web designers the world over to adopt the approach."
+    },
+    {
+        "id":"9",
+        "img":"https://cdn.mos.cms.futurecdn.net/a70e64ba8de38823004935b625828260-970-80.jpg.webp",
+        "name":"Jeffrey Zeldman",
+        "details":"Jeffrey Zeldman is perhaps the best known of all the people featured in our list. He's the author of a must-have book, Designing with Web Standards, publisher of books via A Book Apart, and is the driving force behind the immensely popular industry leading online journal, A List Apart. Zeldman is also the founder of Happy Cog studios, a US-based consultancy with clients including MTV, Ben & Jerry's and Stanford University."
+    },
+    {
+        "id":"10",
+        "img":"https://cdn.mos.cms.futurecdn.net/c5f290528009a457d4d875b52004f723-970-80.jpg.webp",
+        "name":" Rachel Andrew",
+        "details":"Rachel is a web developer, speaker and prolific writer. Her books include titles for SitePoint, Apress and Five Simple Steps, covering the likes of PHP web development, CSS3 Layout Modules and Adobe's Dreamweaver web design tool. Aside from her speaking and writing, Rachel is the Managing Director of edgeofmyseat.com, a web development consultancy known for its Perch CMS app."
+    },
+    {
+        "id":"11",
+        "img":"https://cdn.mos.cms.futurecdn.net/f206efae7b2b0f4417e139641ed3f446-970-80.jpg.webp",
+        "name":"Simon Collison",
+        "details":"Simon Collison is a designer, speaker and author. Having worked in a variety of situations throughout his career, Collison shares his knowledge on web design via books and conferences. He's also a proud partner with Fictive Kin, and organises the annual New Adventures in Web Design event in his hometown of Nottingham."
+    },
+    {
+        "id":"12",
+        "img":"https://cdn.mos.cms.futurecdn.net/cb3681f30edb591dc34706358bef8aec-970-80.jpg.webp",
+        "name":"Veerle Pieters",
+        "details":"Veerle Pieters is a hugely talented graphic designer from Belgium, best known for both her work through Duoh!, the agency she co-founded with Geert Leyseele, and her blog at veerle.duoh.com where she shares insights and tutorials. She's also an author and speaker, and has worked on some high profile projects including the GUI for ExpressionEngine."
+    },
+    {
+        "id":"13",
+        "img":"https://cdn.mos.cms.futurecdn.net/2fc68e7465f09d267b556898807ea759-970-80.jpg.webp",
+        "name":"Cameron Moll",
+        "details":"Cameron Moll is a well-known designer who speaks regularly at web design conferences across the world. As well as the Authentic Jobs website, which Moll is responsible for, he's collaborated on books with the likes of Andy Budd and Simon Collison. As well as his speaking and books, Moll is well known for a series of typographical posters rendered with letterpress, which are well worth a look!"
+    }
+]

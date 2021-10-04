@@ -1,0 +1,142 @@
+  [
+    {
+        "id":"1",
+        "price":1000,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-udemy-online.png.webp",
+        "title":"Udemy",
+        "details":"Udemy boasts a good number of web development courses, but which one should you choose if you’re starting out with no background in coding? The Complete Web Developer in 2019: Zero to Mastery aims to do exactly what it says on the tin."
+    },
+    {
+        "id":"2",
+        "price":1100,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-coursera-online.png.webp",
+        "title":"Coursera",
+        "details":"Coursera provides a wealth of web development courses that can provide a solid foundation to both front and back-end web development."
+    },
+    {
+        "id":"3",
+        "price":1200,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-udacity-online.png.webp",
+        "title":" Udacity",
+        "details":"Udacity’s Web Development course, taught by Steve Huffman, takes your through the most important concepts regarding internet browsers and HTML."
+    },
+    {
+        "id":"4",
+        "price":1300,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-edx-online.png.webp",
+        "title":"edX",
+        "details":"edX offers a range of interesting web development courses, varying from beginner level to more advanced."
+    },
+    {
+        "id":"5",
+        "price":1400,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-code-academy-online.png.webp",
+        "title":" Code Academy",
+        "details":"Code Academy’s web development “path” is perfect for those looking for a career change or a challenge! Subscribing the Pro account will allow you to access on-demand courses and quizzes – they even have an app for learning on-the-go!"
+    },
+    {
+        "id":"6",
+        "price":1500,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-skillshare-online.png.webp",
+        "title":"Skillshare",
+        "details":"Skillshare’s Boost Personal Branding by Coding Your Own Website course by Aga Naplocha, a coding designer from Adobe, shows you how to get creative with your web portfolio."
+    },
+    {
+        "id":"7",
+        "price":1700,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-treehouse-online.png.webp",
+        "title":"Treehouse",
+        "details":"Treehouse’s front-end “Techdegree”, with over nine projects and 30 courses, teaches you all the fundamentals of HTML, CSS and JavaScript to prepare you for an entry-level job within four months."
+    },
+    {
+        "id":"8",
+        "price":1800,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-tutsplus-online.png.webp",
+        "title":"Tutsplus",
+        "details":"Tutsplus’s web development course gets your feet wet with React immediately. It emphasizes the importance of at least trying out this language, even if you never plan on using it."
+    },
+    {
+        "id":"9",
+        "price":1900,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-w3schools-online.png.webp",
+        "title":"W3Schools",
+        "details":"W3Schools is a great choice for busy people with work and life commitments as all their web developer certification courses are completed online and are completely self-paced. You can also choose exactly which web development course you want to study, with certificates available from HTML to SQL."
+    },
+    {
+        "id":"10",
+        "price":2000,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-freecodecamp-online.png.webp",
+        "title":"Free Code Camp",
+        "details":"Free Code Camp offers a full stack web development course that is split up into six smaller certificates. Completing all six courses entitles you to their Full Stack Development Certification"
+    },
+    {
+        "id":"11",
+        "price":2100,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-app-academy-us.png.webp",
+        "title":"App Academy - San Francisco, California",
+        "details":"If you’re looking for a coding school that focuses on career preparation, App Academy, voted as the best coding school in the US by SwitchUp and CourseReport, is the school for you"
+    },
+    {
+        "id":"12",
+        "price":2200,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-stanford-us.png.webp",
+        "title":"Stanford University - Stanford, California",
+        "details":"Stanford University’s web development course aims to provide you with a basic introduction to building web applications, along with hands-on experience"
+    },
+    {
+        "id":"13",
+        "price":2300,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-flatiron-us.png.webp",
+        "title":"Flatiron School - Washington DC",
+        "details":"Flatiron’s free Intro to JavaScript web development course is a great way to quickly master the fundamentals of modern web development from zero."
+    },
+    {
+        "id":"14",
+        "price":2400,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-coding-dojo-us.png.webp",
+        "title":" Coding Dojo - locations across the US",
+        "details":"Coding Dojo offers many onsite coding bootcamps across the country. Their bootcamps teach you the most popular and in-demand programming languages based on market trends and search engine ranking."
+    },
+    {
+        "id":"15",
+        "price":2500,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-the-tech-academy-us.png.webp",
+        "title":"The Tech Academy - Denver",
+        "details":"The Tech Academy offers a good mix of bootcamps that you can do online or onsite at any of their campuses. Any of their courses can be taken full-time or part-time."
+    },
+    {
+        "id":"16",
+        "price":2800,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-code-institute-europe.png.webp",
+        "title":"Code Institute - Dublin, Ireland",
+        "details":"The Code Institute in Dublin, the birthplace of the Web Summit, offers prospective students a unique and free five-day coding challenge with a tutorial video each day. All it takes is one hour a day and when it’s complete, you’ll know whether coding is for you!"
+    },
+    {
+        "id":"17",
+        "price":2900,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-open-academy-uk.png.webp",
+        "title":"Open Academy - London, UK (also online)",
+        "details":"Open Academy’s web development course is a great primer for those looking for an introduction to the world of web development and coding."
+    },
+    {
+        "id":"18",
+        "price":3500,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-codeworks-europe.png.webp",
+        "title":"Codeworks - Barcelona, Spain",
+        "details":"Codeworks is located in the buzzing cosmopolitan city of Barcelona and only five minutes away from one of the best mediterranean beaches!"
+    },
+    {
+        "id":"19",
+        "price":4000,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-development-bootcamp-europe.png.webp",
+        "title":"Development Bootcamp - Amsterdam, Netherlands",
+        "details":"Development Bootcamp Amsterdam offers three distinctive bootcamps: React/Redux (intermediate), TypeScript and GraphQL (advanced) and JavaScript (beginner)."
+    },
+    {
+        "id":"20",
+        "price":4500,
+        "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/web-development-courses-spiced-europe.png.webp",
+        "title":"Spiced - Berlin, Germany",
+        "details":"Spiced in Berlin offer an intensive zero-to-hero course that aims to get you up to full-stack developer level in as little as 12 weeks."
+    }
+]
