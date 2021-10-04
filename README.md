@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+<h2>Web Development Courses</h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>Live site link:</p>
 
-## Available Scripts
+### `Web Development`
 
-In the project directory, you can run:
+Want to build your website or app using the most up-to-date web development capabilities? Read our useful guidance and analysis to build the future of the web! Website Performance. Website Visibility. Network Resilience Tips. Modern Web Techniques.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### `                   Our Most popular Web Development Course`
+1.Udemy
+2.Coursera
+3.Udacity
+4.edX
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### `Udemy`
 
-### `npm test`
+Udemy boasts a good number of web development courses, but which one should you choose if you’re starting out with no background in coding? The Complete Web Developer in 2019: Zero to Mastery aims to do exactly what it says on the tin.
+### `Coursera`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Coursera provides a wealth of web development courses that can provide a solid foundation to both front and back-end web development.
 
-### `npm run build`
+### `Udacity`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Udacity’s Web Development course, taught by Steve Huffman, takes your through the most important concepts regarding internet browsers and HTML.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `edX`
 
-### `npm run eject`
+edX offers a range of interesting web development courses, varying from beginner level to more advanced.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Note: Yes, web development is a good career. Mondo's annual Tech and Digital Marketing Salary guide found “Web Developer” was the most in-demand job title in tech and one of its top-paying jobs. And, according to the U.S. Bureau of Labor, the job market for Web Developers is expected to grow 15 percent by 2026.**
